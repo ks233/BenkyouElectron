@@ -1,16 +1,16 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+
+  <MainFrame msg="Welcome to Your Vue.js App" />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MainFrame from './components/MainFrame.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    MainFrame
+}
 }
 </script>
 
@@ -21,6 +21,17 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
+}
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    --benkyou-theme-color:#FF654E;
+    --benkyou-hover-color:rgb(245, 213, 210);
+    --benkyou-active-color:rgb(255, 241, 240);
 }
 </style>

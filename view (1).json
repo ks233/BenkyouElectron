@@ -1,0 +1,408 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+        "bvid": "BV1X7411F744",
+        "aid": 90798049,
+        "videos": 23,
+        "tid": 231,
+        "tname": "计算机技术",
+        "copyright": 1,
+        "pic": "http://i1.hdslb.com/bfs/archive/b0c9a3c1b59fbdc8a9aafd23615c3bb24a11bef5.jpg",
+        "title": "GAMES101-现代计算机图形学入门-闫令琪",
+        "pubdate": 1582350089,
+        "ctime": 1582350089,
+        "desc": "GAMES101 现代计算机图形学入门\n主讲老师：闫令琪，UCSB\n课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html\n\n更多计算机图形学相关的学习资料请访问：\n计算机图形学与混合现实在线平台GAMES: http://games-cn.org",
+        "desc_v2": [
+            {
+                "raw_text": "GAMES101 现代计算机图形学入门\n主讲老师：闫令琪，UCSB\n课程主页：https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html\n\n更多计算机图形学相关的学习资料请访问：\n计算机图形学与混合现实在线平台GAMES: http://games-cn.org",
+                "type": 1,
+                "biz_id": 0
+            }
+        ],
+        "state": 0,
+        "duration": 100954,
+        "rights": {
+            "bp": 0,
+            "elec": 0,
+            "download": 1,
+            "movie": 0,
+            "pay": 0,
+            "hd5": 1,
+            "no_reprint": 1,
+            "autoplay": 1,
+            "ugc_pay": 0,
+            "is_cooperation": 0,
+            "ugc_pay_preview": 0,
+            "no_background": 0,
+            "clean_mode": 0,
+            "is_stein_gate": 0,
+            "is_360": 0,
+            "no_share": 0
+        },
+        "owner": {
+            "mid": 512313464,
+            "name": "GAMES-Webinar",
+            "face": "http://i2.hdslb.com/bfs/face/3ba3d5a728eb6cdcb80562650fbaa4fc13370ef6.jpg"
+        },
+        "stat": {
+            "aid": 90798049,
+            "view": 1410237,
+            "danmaku": 50002,
+            "reply": 2005,
+            "favorite": 67927,
+            "coin": 35511,
+            "share": 9497,
+            "now_rank": 0,
+            "his_rank": 0,
+            "like": 28492,
+            "dislike": 0,
+            "evaluation": "",
+            "argue_msg": ""
+        },
+        "dynamic": "",
+        "cid": 155049937,
+        "dimension": {
+            "width": 1272,
+            "height": 720,
+            "rotate": 0
+        },
+        "premiere": null,
+        "teenage_mode": 0,
+        "no_cache": false,
+        "pages": [
+            {
+                "cid": 155049937,
+                "page": 1,
+                "from": "vupload",
+                "part": "Lecture 01 Overview of Computer Graphics",
+                "duration": 3590,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1272,
+                    "height": 720,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 155050182,
+                "page": 2,
+                "from": "vupload",
+                "part": "Lecture 02 Review of Linear Algebra",
+                "duration": 3589,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1488,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 155050453,
+                "page": 3,
+                "from": "vupload",
+                "part": "Lecture 03 Transformation",
+                "duration": 3872,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1482,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 155049420,
+                "page": 4,
+                "from": "vupload",
+                "part": "Lecture 04 Transformation Cont.",
+                "duration": 4696,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1432,
+                    "height": 932,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 156365564,
+                "page": 5,
+                "from": "vupload",
+                "part": "Lecture 05 Rasterization 1 (Triangles)",
+                "duration": 3974,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 157785102,
+                "page": 6,
+                "from": "vupload",
+                "part": "Lecture 06 Rasterization 2 (Antialiasing and Z-Buffering)",
+                "duration": 4795,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1506,
+                    "height": 932,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 159446314,
+                "page": 7,
+                "from": "vupload",
+                "part": "Lecture 07 Shading 1 (Illumination, Shading and \u2028Graphics Pipeline)",
+                "duration": 4112,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 160796522,
+                "page": 8,
+                "from": "vupload",
+                "part": "Lecture 08 Shading 2 (Shading, Pipeline and Texture Mapping)",
+                "duration": 4097,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 162397441,
+                "page": 9,
+                "from": "vupload",
+                "part": "Lecture 09 Shading 3 (Texture Mapping Cont.)",
+                "duration": 4280,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 163742900,
+                "page": 10,
+                "from": "vupload",
+                "part": "Lecture 10 Geometry 1 (Introduction)",
+                "duration": 4665,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 165555367,
+                "page": 11,
+                "from": "vupload",
+                "part": "Lecture 11 Geometry 2 (Curves and Surfaces)",
+                "duration": 3745,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 167114734,
+                "page": 12,
+                "from": "vupload",
+                "part": "Lecture 12 Geometry 3",
+                "duration": 4649,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 168834633,
+                "page": 13,
+                "from": "vupload",
+                "part": "Lecture 13 Ray Tracing 1",
+                "duration": 4590,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 170228498,
+                "page": 14,
+                "from": "vupload",
+                "part": "Lecture 14 Ray Tracing 2",
+                "duration": 5028,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 171976848,
+                "page": 15,
+                "from": "vupload",
+                "part": "Lecture 15 Ray Tracing 3",
+                "duration": 4631,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 174156536,
+                "page": 16,
+                "from": "vupload",
+                "part": "Lecture 16 Ray Tracing 4",
+                "duration": 5308,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 175127440,
+                "page": 17,
+                "from": "vupload",
+                "part": "Lecture 17 Materials and Appearances",
+                "duration": 4842,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 176364993,
+                "page": 18,
+                "from": "vupload",
+                "part": "Lecture 18 Advanced Topics in Rendering",
+                "duration": 5634,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 178277138,
+                "page": 19,
+                "from": "vupload",
+                "part": "Lecture 19 Cameras, Lenses and Light Fields",
+                "duration": 4835,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 179579864,
+                "page": 20,
+                "from": "vupload",
+                "part": "Lecture 20 Color and Perception",
+                "duration": 5827,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 181360048,
+                "page": 21,
+                "from": "vupload",
+                "part": "Lecture 21 Animation",
+                "duration": 5257,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 182632717,
+                "page": 22,
+                "from": "vupload",
+                "part": "Lecture 22 Animation Cont.",
+                "duration": 4734,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1512,
+                    "height": 936,
+                    "rotate": 0
+                }
+            },
+            {
+                "cid": 210511768,
+                "page": 23,
+                "from": "vupload",
+                "part": "番外：纪念16万观看",
+                "duration": 204,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                }
+            }
+        ],
+        "subtitle": {
+            "allow_submit": false,
+            "list": []
+        },
+        "is_season_display": false,
+        "user_garb": {
+            "url_image_ani_cut": ""
+        },
+        "honor_reply": {}
+    }
+}

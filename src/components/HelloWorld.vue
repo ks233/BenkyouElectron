@@ -1,5 +1,7 @@
 <template>
-  <div class="hello">
+  <div class="Main">
+    <button id="ks" class="btn btn btn-info" v-on:click="say">{{ksks}}</button>
+
     <h1>{{ msg }}</h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
@@ -31,14 +33,28 @@
 </template>
 
 <script>
+
 export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  data: function(){
+    return {
+      count:0,
+      ksks:"ksks"
+    }
+  },
+  methods: {
+      say () {
+        this.ksks="wbbb"
+        //const { dialog } = require('electron')
+        //dialog.showErrorBox('This is the Title', 'This is the Content');
+        window.open('./index.html', '_blank', 'top=500,left=200,frame=true,nodeIntegration=no')
+      }
   }
 }
 </script>
-
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
